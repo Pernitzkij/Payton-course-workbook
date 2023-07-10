@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/-4.3-List-comprehensions-.-random" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10.2-Exception-handling-try-except-statements" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10.3-Exception-handling-else-finally-statements" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10.4-Calling-exceptions-raise-statement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11.2-Classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11.3-Methods-of-the-class-the-self-argument" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.2-Indexes.-Working-with-list-items" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.3-Lists-working-with-strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.2-Working-with-lists-insert-remove-index-methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.3-Working-with-multiple-lists.-Extend-and-count-methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.4-Nested-Lists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3.5-Practical-work" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.2-List-comprehensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.4-List-Slices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5.2-Formatting-strings-format-and-f-strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5.3-String-methods-split-and-join" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5.4-String-methods-startswith-endswith-upper-lower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6.1-Vocabulary-Basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6.2-Dictionary-methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6.3-Nested-dictionaries-and-default-values-in-get" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6.4-Sets.-Set-function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7.2-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7.3-The-enumerate-function.-Iterating-over-multiple-values" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7.4-Sorting-keys-and-values-in-the-dictionary.-The-items-method" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7.5-Composite-keys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8.2-Recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8.4-Transfer-of-mutable-and-immutable-data-to-the-function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8.6-Named-arguments-and-default-values" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9.1-os-module-path-generation-and-listdir-method" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9.2-OS-module-checks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9.3-Basic-file-operations-open-close-read" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9.4-The-write-method.-Recording-modes" vcs="Git" />
+  </component>
+</project>
